@@ -1,0 +1,8 @@
+{
+  "$global": {
+    "swapRouter": "0xd20a95C4470458aa00B1dF11EDA08c12ac29b858",
+    "factory": "0x51d15889b66A2c919dBbD624d53B47a9E8feC4bB",
+    "usdt": "0x5F795bb52dAC3085f578f4877D450e2929D2F13d",
+    "treasury": "0xD5fB63d13434063A569Ec36E3dDc10FEFdC76733"
+  }
+}
